@@ -41,6 +41,6 @@ next();
 
 bot.launch();
 
-setInterval(function() {
-    console.log("test");
-}, 3000);
+// setInterval(function() {
+//     console.log("test");
+// }, 3000);
